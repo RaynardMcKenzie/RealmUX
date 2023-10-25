@@ -374,7 +374,7 @@ img {
             /* to bottom,  */
             rgba(6, 6, 6, 0.695), 
             rgba(6, 6, 6, 0.690)
-      ), url(images/background\ Image.png);
+      ), url(background\ Image.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -709,7 +709,7 @@ label {
         to right,
         rgba(6, 6, 6, 0.695), 
         rgba(6, 6, 6, 0.690)
-  ),url(images/bgImage2.png);
+  ),url(bgImage2.png);
 }
 
 .sectionHeading {
